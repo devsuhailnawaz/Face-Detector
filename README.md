@@ -1,2 +1,2 @@
 # Face-Detector
-This Projects contain python project
+This Projects contain python project with Open cv
